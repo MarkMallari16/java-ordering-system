@@ -84,6 +84,7 @@ public class Admin extends javax.swing.JFrame {
         ));
         jScrollPane1.setViewportView(tblProduct);
 
+        btnLogout1.setBackground(new java.awt.Color(255, 255, 255));
         btnLogout1.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         btnLogout1.setForeground(new java.awt.Color(255, 255, 255));
         btnLogout1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/logout.png"))); // NOI18N
